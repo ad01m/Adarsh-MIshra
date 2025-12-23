@@ -1,4 +1,3 @@
-# Adarsh-MIshra
 # 💫 About Me:
 Hi, I’m Kartikeyaa 👋<br>I’m a frontend developer with a strong interest in building responsive and user-friendly web applications. I work with HTML, CSS, JavaScript, and React, and I’m currently expanding my skills in the MERN stack. I enjoy turning ideas into real-world projects and continuously improving my development skills.
 
